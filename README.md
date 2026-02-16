@@ -1,7 +1,8 @@
 # 💰 Personal Budget Management System – Excel
 
 > A dynamic and structured Excel-based budgeting system to track income, expenses, and savings with automated calculations and interactive dashboard insights.
-![Dashboard Preview](Personal_Budget_Dashboard.png)
+>
+> ![Dashboard Preview](Personal_Budget_Dashboard.png)
 ---
 
 ## 📌 Project Overview
@@ -77,21 +78,12 @@ To build a structured and automated personal finance management system using Mic
 
 ---
 
-## 📸 Dashboard Preview
-
-*(Add dashboard screenshot here)*
-Example:
-
-```markdown
-
-```
-
-
 ## 👨‍💻 Author
 
 **Dheeraj R. Singh**
-Aspiring Data Analyst | Excel | Power BI | BI Projects
+
+ - Data Analyst | Excel | Power BI | BI Projects
 
 🔗 GitHub: [https://github.com/DHEERAJ09R08SINGH](https://github.com/DHEERAJ09R08SINGH)
-🔗 LinkedIn: 
+🔗 LinkedIn: [https://www.linkedin.com/in/dheeraj-r-singh/](https://www.linkedin.com/in/dheeraj-r-singh-9b4370250/)
 
