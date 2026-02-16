@@ -1,58 +1,97 @@
-📌 Personal Budget Management System – Excel
-🔹 Project Overview
+# 💰 Personal Budget Management System – Excel
 
-A dynamic Excel-based budgeting system to track income, expenses, and savings with automated calculations and dashboard insights.
+> A dynamic and structured Excel-based budgeting system to track income, expenses, and savings with automated calculations and interactive dashboard insights.
 
-🔹 Key Features
+---
 
-Budget Planning Sheet for monthly/yearly targets
+## 📌 Project Overview
 
-Budget Tracking Sheet for actual expense entry
+The **Personal Budget Management System** is designed to help users plan, track, and analyze their financial activities efficiently.
 
-Automated variance calculation (Planned vs Actual)
+It follows a modular structure with separate sheets for planning, tracking, backend calculations, and dashboard visualization — ensuring clean data flow and structured financial reporting.
 
-Year-based dynamic dashboard selection
+---
 
-Dropdown-based category management
+## 🧩 Project Structure
 
-Backend calculations sheet for structured logic
+| Sheet Name          | Purpose                                           |
+| ------------------- | ------------------------------------------------- |
+| **Settings**        | Control panel for year selection & configurations |
+| **Budget Planning** | Define monthly/yearly income & expense targets    |
+| **Budget Tracking** | Record actual transactions                        |
+| **Calculations**    | Backend automated computations                    |
+| **Dashboard**       | Visual financial insights & KPIs                  |
+| **Dropdown Data**   | Category & validation data management             |
 
-Conditional formatting alerts for overspending
+---
 
-Summary KPIs:
+## 🚀 Key Features
 
-Total Income
+* 📅 Budget Planning Sheet for monthly & yearly targets
+* 🧾 Budget Tracking Sheet for real-time expense recording
+* 📊 Automated variance calculation (Planned vs Actual)
+* 📈 Interactive dashboard with year-based dynamic selection
+* 🔽 Dropdown-based category management using data validation
+* ⚙ Backend calculation engine for clean logic separation
+* 🚨 Conditional formatting alerts for overspending
+* 📌 Structured and scalable Excel modeling approach
 
-Total Expenses
+---
 
-Savings
+## 📊 Summary KPIs Included
 
-Variance Analysis
+* 💵 Total Income
+* 💸 Total Expenses
+* 💰 Savings
+* 📉 Variance Analysis
+* 📆 Monthly Trend Overview
 
-🔹 Excel Skills Demonstrated
+---
 
-Advanced formulas (SUMIFS, IF, IFERROR)
+## 🛠 Excel Skills Demonstrated
 
-Pivot-based reporting (if used)
+* Advanced formulas: `SUMIFS`, `IF`, `IFERROR`
+* Logical structuring of multi-sheet models
+* Data validation & dropdown controls
+* Named ranges
+* Conditional formatting for alerts
+* Dashboard layout & visual design principles
+* Financial variance analysis
+* Clean Excel architecture & modeling approach
 
-Data validation
+---
 
-Named ranges
+## 📈 Business Insights Enabled
 
-Conditional formatting
+* Monthly spending trends
+* Category-wise expense breakdown
+* Budget vs Actual performance comparison
+* Yearly financial overview
+* Overspending identification & control
 
-Dashboard formatting & layout
+---
 
-Structured Excel modeling
+## 🎯 Project Objective
 
-🔹 Business Insights Enabled
+To build a structured and automated personal finance management system using Microsoft Excel that demonstrates strong analytical thinking, financial planning logic, and dashboard development skills.
 
-Monthly spending trend
+---
 
-Category-wise expense breakdown
+## 📸 Dashboard Preview
 
-Budget vs Actual comparison
+*(Add dashboard screenshot here)*
+Example:
 
-Yearly financial overview
+```markdown
+![Dashboard Preview](dashboard.png)
+```
 
-Overspending identification
+
+## 👨‍💻 Author
+
+**Dheeraj R. Singh**
+Aspiring Data Analyst | Excel | Power BI | BI Projects
+
+🔗 GitHub: [https://github.com/DHEERAJ09R08SINGH](https://github.com/DHEERAJ09R08SINGH)
+🔗 LinkedIn: 
+
