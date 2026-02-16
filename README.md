@@ -1,7 +1,7 @@
 # 💰 Personal Budget Management System – Excel
 
 > A dynamic and structured Excel-based budgeting system to track income, expenses, and savings with automated calculations and interactive dashboard insights.
-
+![Dashboard Preview](Personal_Budget_Dashboard.png)
 ---
 
 ## 📌 Project Overview
@@ -83,7 +83,7 @@ To build a structured and automated personal finance management system using Mic
 Example:
 
 ```markdown
-![Dashboard Preview](dashboard.png)
+
 ```
 
 
